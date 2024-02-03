@@ -2,23 +2,32 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Laura
-last_name: Schaposnik
-email: schapos@uic.edu
+title: Shaon Sikder # the website title (if blank, full name will be used instead)
+first_name: Shaon
+last_name: Sikder
+email: shaonsikder.ewu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Laura Schaposnik's website.
+  Shaon Sikder's website.
+#   With a strong interest in the power of data to drive insights and inform decisions, I have pursued a career in Data Science, leveraging my background in Information and Communication Engineering 
+#   to develop a solid foundation in software development. My experience includes work on projects such as an undergraduate thesis that involved NLP-based sentiment extraction using unsupervised machine learning, 
+#   as well as contributions to projects on platforms such as GitHub and Kaggle. I am committed to expanding my skills and knowledge in data-driven solutions, recognizing the importance of data-driven decision making 
+#   in achieving success in today's industries.
+
+# [*GitHub Profile Link](https://github.com/shaon2221)
+# [*Upwork Profile Link](https://www.upwork.com/freelancers/~014d9c4d61921351e9)
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: higgs bundles, geometry, mathematical physics, branes, spectral data, Langlands program, mirror symmetry, children books, math books  # add your own keywords or leave empty
+  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+keywords: shaon2221, shaon-sikder, academic-website, portfolio-website, shaon  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-url: https://lauraschaposnik.github.io # the base hostname & protocol for your site
-baseurl:   # the subpath of your site, e.g. /blog/
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
+icon: 👨🏻‍💻 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+url: https://shaon2221.github.io # the base hostname & protocol for your site
+baseurl: #/al-folio # the subpath of your site, e.g. /blog/
+last_updated: true # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 # -----------------------------------------------------------------------------
 # RSS Feed
 # -----------------------------------------------------------------------------
@@ -51,13 +60,14 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lauraschaposnik
+github_username: shaon2221
 gitlab_username: # your GitLab user name
-twitter_username: SchaposnikLaura
-linkedin_username: # your LinkedIn user name
-scholar_userid: 5cLd6dIAAAAJ&hl # your Google Scholar ID
-orcid_id: 0000-0003-1417-2201 # your ORCID ID
-medium_username: # your Medium username
+twitter_username: shaon2221
+linkedin_username: shaon2221
+scholar_userid: XS10ECgAAAAJ&hl # your Google Scholar ID
+medium_username: shaon2221 # your Medium username
+whatsapp_number: +8801646976657
+orcid_id: #0000-0003-1417-2201 # your ORCID ID
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
@@ -67,12 +77,12 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
-instagram_id: lauraschaposnik
-youtube_id: UCbFDRhdiz9gEuq_cnO5IVxA
+instagram_id: 
+youtube_id: DataDiscoveryBD
 
-contact_note: ># ESTO VA ABAJO DE LOS ICONOS SOCIALES
+contact_note: ># THIS GOES BELOW THE SOCIAL ICONS
 
-google_analytics: UA-66654777-1  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
@@ -207,8 +217,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Schaposnik
-  first_name: [Laura P.]
+  last_name: Sikder
+  first_name: [Shaon]
 
   style: apa
   locale: en
