@@ -5,7 +5,7 @@ title: Courses
 description:
 years: [March 2024, August 2021]
 nav: false
-heading: Courses
+heading: 
 ---
 
 Below are listed all the courses that I have taught as the primary instructor since 2021, with
