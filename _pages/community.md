@@ -2,7 +2,7 @@
 layout: page
 title: Community
 nav: true
-order: 4
+order: 10
 dropdown: true
 children: 
     - title: Research Group
