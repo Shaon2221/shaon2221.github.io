@@ -2,12 +2,10 @@
 layout: page
 permalink: /experience
 title: 'Experience'
-description: Information about work experience of Shaon Sikder
+description: 
 order: 2
 nav: true
 ---
-
-# Experience
 
 ## AI Engineer at Easital Technologies (Jun 2023 - Present)
 
