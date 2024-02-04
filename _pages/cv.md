@@ -1,11 +1,12 @@
 ---
 layout: page
-permalink: /cv/
+permalink: /cv
 title: 'CV'
-nav: true
+description:
+order: 1
 heading:
+nav: true
 ---
-
 
 <center>
 If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/Shaon Sikder AI Engineer.pdf" target="_blank">here</a>.
