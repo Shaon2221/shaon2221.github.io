@@ -17,7 +17,7 @@ nav: true
 2. **[Navigating the Ethical Waters of AI: A Personal Exploration with Mixtral 8x7B](https://medium.com/@shaon2221/navigating-the-ethical-waters-of-ai-a-personal-exploration-with-mixtral-8x7b-befe0bedd7ec)**
    - In this Medium article, I delve into the intricate web of challenges and possibilities that AI presents, exploring the recent developments in language models and their ethical implications.
    - Unveiling the Latest: Mixtral 8x7B and Dolphin 2.5 Mixtral 8x7B
-   - ![Hypothesis Testing Image](https://miro.medium.com/v2/resize:fit:720/format:webp/0*2bh2BpdJbhBjzgz7)
+   - ![Hypothesis Testing Image](/assets/img/Navigating-Ethical-Waters-Ensuring-Fairness-and-Accountability-in-AI-Development.png)
 
 3. **[Hypothesis Testing](https://linkedin.com/pulse/hypothesis-testing-shaon-sikder/)**
    - *August 1, 2022*
@@ -26,7 +26,7 @@ nav: true
    Open Immersive Reader
    - What is Hypothesis Testing?
    - হাইপোথিসিস টেস্টিং হল একটি পরিসংখ্যানগত পদ্ধতি যা পরীক্ষামূলক ডেটা ব্যবহার করে পরিসংখ্যানগত সিদ্ধান্ত নিতে ব্যবহৃত হয়।
-   - ![Hypothesis Testing Image](https://media.licdn.com/dms/image/D4D12AQFpmnarLc5xGg/article-cover_image-shrink_423_752/0/1659367807755?e=1712793600&v=beta&t=sPVqGdos4gN0tdairBPGsTOmzc9KdvabPbhahODvAjk)
+   - ![Hypothesis Testing Image](/assets/img/hypothesis-testing.png)
 
 
 
