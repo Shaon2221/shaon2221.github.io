@@ -1,10 +1,13 @@
+---
 layout: page
-title: Experience
+permalink: /experience
+title: 'Experience: Shaon Sikder'
+description: Information about work experience of Shaon Sikder
 order: 2
 nav: true
-dropdown: true
-heading: Experience
 ---
+## AI Engineer
+<h3> Easital Technologies </h3
 Below are listed all the courses that I have taught as the primary instructor since 2021, with
 links to their respective websites.  
 I'm Shaon Sikder, Experienced AI Engineer (3+ years) advancing Large Language Models, Machine Learning, Deep Learning Algorithms, Data-centric AI crafting ethical, explainable LLMs & AI solutions for real world impact, prioritizing safety, well-being, and responsible innovation. 
