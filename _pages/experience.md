@@ -31,5 +31,5 @@ nav: true
 - Led a team of 4 AI engineers, achieving goals via collaboration and leadership.
 - Technologies: AWS, Selenium, Pandas, ML, OCR, PostgreSQL, Docker.
 
-<b> Previously grew my AI skillset in AI engineering (ADSPL Ltd), refined leadership through a
-Management Trainee role (Acme AI). </b>
+<b> Previously grew my AI skillset in AI engineering ([ADSPL Ltd](https://adspl.tech/)), refined leadership through a
+Management Trainee role ([Acme AI](https://www.acmeai.tech/)). </b>
