@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /cv/
-title: CV
+title:'CV'
 nav: true
-heading: CV
+heading:
 ---
 
 
