@@ -1,20 +1,37 @@
 ---
 layout: page
 permalink: /experience
-title: 'Experience: Shaon Sikder'
+title: 'Experience'
 description: Information about work experience of Shaon Sikder
 order: 2
 nav: true
 ---
-## AI Engineer
-<h3> Easital Technologies </h3
-Below are listed all the courses that I have taught as the primary instructor since 2021, with
-links to their respective websites.  
-I'm Shaon Sikder, Experienced AI Engineer (3+ years) advancing Large Language Models, Machine Learning, Deep Learning Algorithms, Data-centric AI crafting ethical, explainable LLMs & AI solutions for real world impact, prioritizing safety, well-being, and responsible innovation. 
 
-After completing my BSc in Information and Communication Engineering from East West University in Bangladesh, I knew I wanted to dive deeper into artificial intelligence and its real-world applications. My journey began when I joined ADSPL Ltd as an AI engineer, where I cut my teeth developing machine learning models and refining my Python and TensorFlow skills. However, I yearned to push the boundaries of what's possible with AI. This led me to my current role at Easital Technologies, where I lead development of sophisticated AI chatbots powered by advanced large language models like Llama-2, Gemini, GPT-4.
+# Experience
 
-Some highlights so far include:
-- Increased user engagement by 20% for a 50+ service mega-app using prompt engineering and innovations like LangChain
-- Reduced business card scanning errors by 35% with AI-enabled OCR
-- Streamlined model deployment with Docker and CI/CD pipelines on AWS
+## AI Engineer at Easital Technologies (Jun 2023 - Present)
+
+- Developed and integrated an AI chatbot for a 50+ service mega-app using LangChain, Llama Index, Prompt Engineering.
+- Increased user engagement by 20% via chatbot for navigation and ordering.
+- Enabled AWS cloud scaling and CI/CD with Docker, Git, and Jenkins.
+- Reduced business card scanning errors by 35% using AI OCR.
+- Technologies: LLMs, LangChain, Llama Index, Prompt Engineering, OCR, AWS, CI/CD, Git, Jenkins.
+
+## Lead Data Scientist at Piana Pte Ltd (Oct 2022 - Jun 2023)
+
+- Led data science team to build social network analysis models with 20% lower individual risk.
+- Created interactive dashboards on AWS/Heroku, improving data accessibility.
+- Implemented ETL and web scraping solutions, reducing retrieval errors by 15%.
+- Mitigated biases via Explainable AI and monitoring.
+- Built backend APIs with Docker and AWS enabling automated CI/CD.
+- Technologies: Python, NLP, NetworkX, PowerBI, SQL, ETL, Web Scraping, Explainable AI, CI/CD, Docker, AWS.
+
+## AI Engineer at Opus Technology Ltd (Jul 2021 - Sep 2022)
+
+- Boosted MLOps efficiency by 20% with end-to-end data pipelines for mining, EDA, training, deployment.
+- Developed esports prediction model with 10% higher accuracy than betting odds.
+- Led a team of 4 AI engineers, achieving goals via collaboration and leadership.
+- Technologies: AWS, Selenium, Pandas, ML, OCR, PostgreSQL, Docker.
+
+Previously grew my AI skillset in AI engineering (ADSPL Ltd), refined leadership through a
+Management Trainee role (Acme AI).
