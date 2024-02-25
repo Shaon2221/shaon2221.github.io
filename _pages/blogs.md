@@ -12,7 +12,7 @@ nav: true
 1. **[The Future of RAG in an Era of Expanding Contexts](https://shaon2221.medium.com/the-future-of-rag-in-an-era-of-expanding-contexts-in-llms-162123f472e3)**
    - As language models evolve to process massive amounts of data, questions arise about the future of retrieval-augmented generation (RAG). Dive into the possibilities and limitations of expanded contexts in our latest post.
    - Unveiling the Potential: From Gemini 1.5 to RingAttention Techniques
-   - ![Illustrative Image]([/path/to/your/image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3dFsy7Goq4vOT3CpGEHSLw.jpeg))
+   - ![Illustrative Image](https://miro.medium.com/v2/resize:fit:720/format:webp/1*3dFsy7Goq4vOT3CpGEHSLw.jpeg)
 
 2. **[EasyEdit: A User-Friendly Framework for Editing Knowledge in Large Language Models](https://medium.com/@shaon2221/easyedit-a-user-friendly-framework-for-editing-knowledge-in-large-language-models-8a29e5a96e0b)**
    - Large language models (LLMs) like GPT-3, ChatGPT, and PaLM have shown immense promise in generating human-like text. However, they still face issues with outdated or incorrect knowledge in their outputs.
