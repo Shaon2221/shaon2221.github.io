@@ -1,5 +1,5 @@
 # al-folio
-https://zuobinxiong.github.io/publications/
+https://zuobinxiong.github.io/publications/ 
 https://maruan.alshedivat.com/code/
 https://alexanderhay2020.github.io/projects/
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
