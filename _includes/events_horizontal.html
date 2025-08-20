@@ -8,10 +8,7 @@
       <div class="row g-0">
         {%- if event.img -%}
         <div class="card-img col-md-6">
-          {% responsive_image_block %}
-            path: {{ event.img }}
-            alt: "event thumbnail"
-          {% endresponsive_image_block %}
+          {% include figure.html path=event.img alt="event thumbnail" class="img-fluid rounded z-depth-1" %}
         </div>
         <div class="col-md-6">
         {%- else -%}
