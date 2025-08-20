@@ -13,5 +13,7 @@ children:
       permalink: /news/
     - title: Videos
       permalink: /videos/
+    - title: Work with me
+      permalink: /work-with-me/
 
 ---
