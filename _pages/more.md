@@ -6,10 +6,10 @@ order: 6
 dropdown: true
 children: 
   - title: Talks
-      permalink: /talks/
-    - title: News
-      permalink: /news/
-    - title: Videos
-      permalink: /videos/
+    permalink: /talks/
+  - title: News
+    permalink: /news/
+  - title: Videos
+    permalink: /videos/
 
 ---
