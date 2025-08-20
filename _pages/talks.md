@@ -1,17 +1,17 @@
 ---
 layout: page
 permalink: /talks/
-title: Talks and Presentations
-description: AI/ML conference talks, seminars, and technical presentations
+title: Teaching & Content Creation
+description: AI/ML courses, educational content, and knowledge sharing activities
 years: [2024,2023,2022,2021]
 nav: false
-heading: Talks and Presentations
+heading: Teaching & Content Creation
 ---
 
 <div class="publications">
 
-I have delivered technical presentations and talks on <b>AI/ML topics</b> including machine learning, deep learning, NLP, and MLOps across various conferences, seminars, and industry events. Below you can find presentations classified as
-<span class="badge badge-danger">Conference</span> <span class="badge badge-primary">Seminar</span> <span class="badge badge-warning">Workshop</span> and <span class="badge badge-light">Industry Talk</span>. 
+I am passionate about sharing knowledge in <b>AI/ML</b> through teaching, course development, and content creation. My educational activities include formal course instruction and producing educational content on Generative AI, Machine Learning, and MLOps. Below you can find my teaching and content creation activities classified as
+<span class="badge badge-success">Teaching</span> <span class="badge badge-info">Content Creation</span>. 
 
 {%- for y in page.years %}
   <h2 class="year">{{y}}</h2>
