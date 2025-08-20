@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching-courses/
 title: Courses
 description:
-years: [March 2024, August 2021]
+years: [July 2024, August 2021]
 nav: false
 heading: 
 ---

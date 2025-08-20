@@ -2,7 +2,7 @@
 layout: about
 title: About Shaon Sikder
 permalink: /
-subtitle: <b><b>AI Engineer</b></b> at <a href="https://easital.com/">Easital Technologies</a>  and <b>Generative AI Course Instructor</b> at <a href="https://horizonsolutions.tech/">Horizon Solutions</a>
+subtitle: <b><b>AI Engineer</b></b> at <b>Short Circuit Science</b> and <b>Generative AI Course Instructor</b> at <a href="https://horizonsolutions.tech/">Horizon Solutions</a>
 
 profile:
   align: right
@@ -25,23 +25,38 @@ social: true # includes social icons at the bottom of the page
   gtag('config', 'G-FZGCT9KEL3');
 </script>
 
-I'm Shaon Sikder, Experienced AI Engineer (3+ years) advancing Large Language Models, Machine Learning, Deep Learning Algorithms, Data-centric AI crafting ethical, explainable LLMs & AI solutions for real world impact, prioritizing safety, well-being, and responsible innovation. 
+<div class="mt-3 mb-4">
+  <p><b>AI Engineer</b> specializing in <b>LLMs, Agents, and Advanced RAG</b>. I build production-grade AI systems that deliver measurable business and research impact.</p>
+  <ul>
+    <li>Deployed LLM chatbots for a 50+ service super-app, <b>+20% engagement</b>.</li>
+    <li>Built OCR pipelines for document intake, <b>-35% scanning errors</b>.</li>
+    <li>Delivered multi-agent workflows for literature mining and drug discovery.</li>
+  </ul>
+</div>
 
-After completing my BSc in Information and Communication Engineering from East West University in Bangladesh, I knew I wanted to dive deeper into artificial intelligence and its real-world applications. My journey began when I joined ADSPL Ltd as an AI engineer, where I cut my teeth developing machine learning models and refining my Python and TensorFlow skills. However, I yearned to push the boundaries of what's possible with AI. This led me to my current role at Easital Technologies, where I lead development of sophisticated AI chatbots powered by advanced large language models like Llama-2, Gemini, GPT-4.
+<div class="mb-4">
+  <a class="btn btn-primary btn-lg mr-2" href="/assets/pdf/Shaon Sikder AI Engineer.pdf" target="_blank"><i class="fas fa-file-download"></i> Download CV</a>
+  <a class="btn btn-outline-primary btn-lg mr-2" href="mailto:shaonsikder.ewu@gmail.com"><i class="fas fa-envelope"></i> Email me</a>
+  <a class="btn btn-success btn-lg mr-2" href="https://www.linkedin.com/in/shaon2221" target="_blank"><i class="fab fa-linkedin"></i> Connect on LinkedIn</a>
+  <a class="btn btn-danger btn-lg" href="https://www.youtube.com/@DataDiscoveryBD" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+  
+</div>
 
-Some highlights so far include:
-- Increased user engagement by 20% for a 50+ service mega-app using prompt engineering and innovations like LangChain
-- Reduced business card scanning errors by 35% with AI-enabled OCR
-- Streamlined model deployment with Docker and CI/CD pipelines on AWS
+### What I do
+- Generative AI: LLM fine-tuning (LoRA/PEFT, DPO/GRPO), quantization, safety and evals
+- Agents: LangChain, LangGraph, CrewAI, MCP; tool-use and retrieval orchestration
+- Retrieval: Advanced RAG with ChromaDB/Milvus/Pinecone, hybrid search, knowledge graphs
+- MLOps/Cloud: FastAPI backends, Docker/K8s, CI/CD, AWS (EC2, S3, Lambda, SageMaker)
 
-I believe we've only scratched the surface of AI's potential. My aim is to craft ethical and explainable AI solutions that drive real-world impact. I prioritize safety, well-being, and responsible innovation in my work.
+### For universities (MS/PhD faculty)
+- Interested in applied LLMs, agent systems, and trustworthy ML
+- Open to research collaborations and co-authored work
+- See my publications and ongoing projects under Research and Projects
 
-Outside of being an AI nerd, I enjoy keeping fit by working out in the gym, watching movies, and traveling to explore nature and local cultures. I also try to stay informed on how international politics shapes our global landscape. Whether it's current affairs or the latest AI innovations, I believe it's important to pursue knowledge across disciplines.
-
-If you'd like to collaborate, have any questions, or just want to chat AI, feel free to connect with me!
-<!--<span style="font-size:13px">
-Note: my role is specified in parentheses, where PI = "Principal Investigator," Co-PI = "Co-Principal Investigator," and "KP=Key Person." 
-</span>-->
+### For clients
+- I scope, prototype, and productionize AI features end-to-end
+- Clear milestones and outcomes; documentation and handoff included
+- Let’s discuss your use case ➜ <a href="mailto:shaonsikder.ewu@gmail.com">shaonsikder.ewu@gmail.com</a>
 
 <hr>
 <span style="font-size:15px">
