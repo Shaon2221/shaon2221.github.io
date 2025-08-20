@@ -3,7 +3,7 @@ layout: page
 permalink: /work-with-me/
 title: Work with me
 description: Let's scope, prototype, and launch your AI features with clear outcomes and timelines.
-nav: false
+nav: true
 heading: Work with me
 ---
 

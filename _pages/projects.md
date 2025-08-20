@@ -3,7 +3,7 @@ layout: page
 permalink: /projects/
 title: Projects
 description: Selected AI projects and case studies
-nav: false
+nav: true
 heading: Projects
 ---
 
