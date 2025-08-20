@@ -9,7 +9,7 @@ name: Deploy Jekyll site to Pages
 on:
   # Runs on pushes targeting the default branch
   push:
-    branches: ["master", "copilot/fix-16ad966d-a79c-4252-ac2c-1f13a1c331dc"]
+    branches: ["master"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
