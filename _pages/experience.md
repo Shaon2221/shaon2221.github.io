@@ -7,19 +7,19 @@ order: 2
 nav: true
 ---
 
-### AI Engineer at Short Circuit Science (Jul 2024 – Present)
+### AI Engineer at [Short Circuit Science](https://www.shortcircuit.science) (Jul 2024 – Present)
 
 - Fine-tune ML/LLM models (TensorFlow, PyTorch) for medical imaging and sports analytics using Transfer Learning.
 - Architect multi-agent LLM systems (LangGraph/CrewAI) for drug discovery and literature mining.
 - Design scalable backend APIs (FastAPI/Flask/Django) and deploy on AWS with Docker/Kubernetes & GitHub Actions.
 
-### AI Engineer (Contract) at Actionboard.ai / Deep Data Lab (Dec 2024 – Present)
+### AI Engineer (Contract) at [Actionboard.ai](https://www.actionboard.ai) / Deep Data Lab (Dec 2024 – Present)
 
 - Built specialized AI agents and Model Context Protocol (MCP) servers for real-time intent detection and knowledge graph updates.
 - Implemented MLOps pipelines for deployment, monitoring, and API integration.
 - Orchestrated action-loop workflows for knowledge acquisition and amplification.
 
-### AI Engineer (Contract) at Delineate (Dec 2023 – Dec 2024)
+### AI Engineer (Contract) at [Delineate](https://www.delineate.pro) (Dec 2023 – Dec 2024)
 
 - Developed AI agents to distill millions of scientific papers/datasets into actionable insights for drug development.
 - Automated literature mining and curated MBMA datasets from 400+ clinical trials for benchmarking.
