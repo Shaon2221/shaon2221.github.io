@@ -7,17 +7,19 @@ order: 3
 nav: true
 ---
 
-#### Research Interest
+### Research statement
+I work at the intersection of Generative AI and systems, focusing on:
 
-Experienced AI Engineer (3+ years) advancing Large Language Models, Machine Learning, Deep Learning Algorithms, Data-centric AI crafting ethical, explainable LLMs & AI solutions for real-world impact, prioritizing safety, well-being, and responsible innovation.
+- LLM adaptation and alignment: LoRA/PEFT, RLHF/DPO/GRPO, quantization, safety and evaluation
+- Agent systems: tool-use, planning and retrieval orchestration (LangChain, LangGraph, CrewAI, MCP)
+- Retrieval and data engineering: advanced RAG with hybrid/vector search (ChromaDB/Milvus/Pinecone), knowledge graphs, high-quality pipelines
+- Trustworthy ML: observability, robustness, privacy-aware deployment, and human-in-the-loop feedback
 
-#### Ongoing Research
+My goal is to build reliable AI systems that translate research into measurable outcomes in production while maintaining responsible practices.
 
-1. **Effectiveness of Transfer Learning on Bone Marrow Classification**
-   - *Shaon Sikder*, Tanbin Islam Rohan, Amena Mahmoud
+I’m open to MS/PhD research collaboration in applied LLMs/agents, trustworthy ML, and data-centric AI.
 
-2. **The Concept of Thermal Comfort by Machine Learning and Explainable AI for different geographical location**
-   - Babul Mosabber, *Shaon Sikder*, SM Nasim, Rownuk Ara Rumy
-
-3. **A Review on Federated Learning in the Context of Smart Building with Energy Efficiency and Thermal Comfort**
-   - Babul Mosabber, Rownuk Ara Rumy, *Shaon Sikder*, Sinhad Hossain Fahim
+### Selected ongoing work
+1) Transfer learning for bone marrow classification (medical imaging)
+2) Thermal comfort modeling with ML and explainability across geographies
+3) Federated learning in smart buildings for energy efficiency and comfort

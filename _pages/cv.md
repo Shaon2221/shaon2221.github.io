@@ -8,6 +8,12 @@ heading:
 nav: true
 ---
 
+<div class="mb-3">
+    <a class="btn btn-primary" href="/assets/pdf/Shaon Sikder AI Engineer.pdf" target="_blank">
+        <i class="fas fa-file-download"></i> Download CV
+    </a>
+</div>
+
 <center>
 If the embedded version of my CV does not work, you can download a copy <a href="/assets/pdf/Shaon Sikder AI Engineer.pdf" target="_blank">here</a>.
 </center>
