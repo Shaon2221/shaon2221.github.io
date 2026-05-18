@@ -1,19 +1,16 @@
 ---
-layout:    <a class="btn btn-primary" href="/assets/pdf/Shaon_Sikder___AI_Engineer.pdf" target="_blank">
-      <i class="fas fa-file-download"></i> Download CV
-    </a>ge
+layout: page
 permalink: /cv
 title: 'CV'
-description:
+description: Shaon Sikder — Full-Stack AI Engineer Resume
 order: 1
-heading:
 nav: true
 ---
 
 <div class="mb-3">
-    <a class="btn btn-primary" href="/assets/pdf/Shaon Sikder AI Engineer.pdf" target="_blank">
-        <i class="fas fa-file-download"></i> Download CV
-    </a>
+  <a class="btn btn-primary" href="/assets/pdf/Shaon_Sikder___AI_Engineer.pdf" target="_blank">
+    <i class="fas fa-file-download"></i> Download CV
+  </a>
 </div>
 
 <center>

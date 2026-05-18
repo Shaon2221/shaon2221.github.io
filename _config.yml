@@ -7,7 +7,7 @@ first_name: Shaon
 last_name: Sikder
 email: shaonsikder.ewu@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shaon Sikder's website.
+  Innovative Full-Stack AI Engineer with 5+ years experience in LLMs, Agents, Advanced RAG, and MLOps. Building production AI systems for healthcare and e-commerce.
 #   With a strong interest in the power of data to drive insights and inform decisions, I have pursued a career in Data Science, leveraging my background in Information and Communication Engineering 
 #   to develop a solid foundation in software development. My experience includes work on projects such as an undergraduate thesis that involved NLP-based sentiment extraction using unsupervised machine learning, 
 #   as well as contributions to projects on platforms such as GitHub and Kaggle. I am committed to expanding my skills and knowledge in data-driven solutions, recognizing the importance of data-driven decision making 
@@ -82,7 +82,7 @@ youtube_id: DataDiscoveryBD
 
 contact_note: ># THIS GOES BELOW THE SOCIAL ICONS
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: G-FZGCT9KEL3  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)

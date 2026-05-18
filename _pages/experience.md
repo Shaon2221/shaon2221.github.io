@@ -2,52 +2,76 @@
 layout: page
 permalink: /experience
 title: 'Experience'
-description: 
+description: Professional experience as an AI Engineer
 order: 2
 nav: true
 ---
 
-### AI Engineer at [Short Circuit Science](https://www.shortcircuit.science) (Jul 2024 – Present)
+## Professional Experience
 
-- Fine-tune ML/LLM models (TensorFlow, PyTorch) for medical imaging and sports analytics using Transfer Learning.
-- Architect multi-agent LLM systems (LangGraph/CrewAI) for drug discovery and literature mining.
-- Design scalable backend APIs (FastAPI/Flask/Django) and deploy on AWS with Docker/Kubernetes & GitHub Actions.
+---
 
-### AI Engineer (Contract) at [Actionboard.ai](https://www.actionboard.ai) / Deep Data Lab (Dec 2024 – Present)
+### Full-Stack AI Engineer — [Ajentica AI](https://www.ajentica.ai) <span class="text-muted float-right">Nov 2025 – Present</span>
+**Dhaka, Bangladesh**
 
-- Built specialized AI agents and Model Context Protocol (MCP) servers for real-time intent detection and knowledge graph updates.
-- Implemented MLOps pipelines for deployment, monitoring, and API integration.
-- Orchestrated action-loop workflows for knowledge acquisition and amplification.
+- Architecting **multi-agent agentic systems** for healthcare analytics using LangGraph and OpenAI Agent SDK, enhancing data processing efficiency.
+- Developing robust backend services and RESTful APIs using **FastAPI** to orchestrate agent workflows and secure data access.
+- Implementing production-grade **RAG pipelines** integrating LLMs with vector databases and layered security for explainable medical record analytics.
+- Collaborating with cross-functional product and data teams to translate complex clinical requirements into reliable, scalable software solutions.
+- Ensuring strict compliance with data privacy standards and ethical AI practices in handling sensitive patient data.
 
-### AI Engineer (Contract) at [Delineate](https://www.delineate.pro) (Dec 2023 – Dec 2024)
+---
 
-- Developed AI agents to distill millions of scientific papers/datasets into actionable insights for drug development.
-- Automated literature mining and curated MBMA datasets from 400+ clinical trials for benchmarking.
-- Designed LLM-powered on-premises search engines for pharmacokinetics and PKPD data retrieval.
+### AI Engineer — [Short Circuit Science](https://www.shortcircuit.science) <span class="text-muted float-right">Jan 2025 – Oct 2025</span>
+**Dhaka, Bangladesh**
 
-### AI Engineer at [Easital Technologies](https://www.easital.com) (Jun 2023 - Present)
+- Developed an autonomous Agentic system for **e-commerce call centre automation**, significantly reducing manual data retrieval times.
+- Designed and built multi-agent LLM systems (Co-Pilot) for **drug discovery** using LangGraph/CrewAI and ChromaDB.
+- Managed the full software lifecycle including deploying applications via **Docker/Kubernetes** and maintaining **CI/CD pipelines** on AWS.
+- Engineered scalable backend APIs (FastAPI, Flask, Django) and managed PostgreSQL/MongoDB databases for high-availability systems.
+- Collaborated with international teams to integrate AI insights into core business logic.
 
-- Developed and integrated an AI chatbot for a 50+ service mega-app using LangChain, Llama Index, Prompt Engineering.
-- Increased user engagement by 20% via chatbot for navigation and ordering.
-- Enabled AWS cloud scaling and CI/CD with Docker, Git, and Jenkins.
-- Reduced business card scanning errors by 35% using AI OCR.
-- Technologies: LLMs, LangChain, Llama Index, Prompt Engineering, OCR, AWS, CI/CD, Git, Jenkins.
+---
 
-### Lead Data Scientist at [Piana Pte Ltd](https://www.sgpbusiness.com/company/Piana-Pte-Ltd) (Oct 2022 - Jun 2023)
+### AI Engineer (Contractual) — [Delineate (YC W25)](https://www.delineate.pro) <span class="text-muted float-right">July 2023 – Dec 2024</span>
+**Remote**
 
-- Led data science team to build social network analysis models with 20% lower individual risk.
-- Created interactive dashboards on AWS/Heroku, improving data accessibility.
-- Implemented ETL and web scraping solutions, reducing retrieval errors by 15%.
-- Mitigated biases via Explainable AI and monitoring.
-- Built backend APIs with Docker and AWS enabling automated CI/CD.
-- Technologies: Python, NLP, NetworkX, PowerBI, SQL, ETL, Web Scraping, Explainable AI, CI/CD, Docker, AWS.
+- Developed AI agents to distill **millions of scientific papers** into actionable insights, accelerating drug development timelines.
+- Fine-tuned LLMs (Gemma) using **QLoRA** on research-specific datasets to improve domain-specific query accuracy.
+- Automated literature mining and curated **MBMA datasets** from 400+ clinical trials for benchmarking.
+- Designed **on-premises search engines** for pharmacokinetics data retrieval, ensuring data security and rapid access.
 
-### AI Engineer at [Opus Technology Ltd](https://opus-bd.com/) (Jul 2021 - Sep 2022)
+---
 
-- Boosted MLOps efficiency by 20% with end-to-end data pipelines for mining, EDA, training, deployment.
-- Developed esports prediction model with 10% higher accuracy than betting odds.
-- Led a team of 4 AI engineers, achieving goals via collaboration and leadership.
-- Technologies: AWS, Selenium, Pandas, ML, OCR, PostgreSQL, Docker.
+### AI Engineer — [Opus Technology Ltd](https://opus-bd.com/) <span class="text-muted float-right">Jan 2021 – June 2023</span>
+**Dhaka, Bangladesh**
 
-<b> Previously grew my AI skillset in AI engineering ([ADSPL Ltd](https://adspl.tech/)), refined leadership through a
-Management Trainee role ([Acme AI](https://www.acmeai.tech/)). </b>
+- Streamlined MLOps and software delivery by implementing CI/CD pipelines, boosting deployment efficiency by **20%** on AWS.
+- Developed an **esports prediction model** achieving 10% higher accuracy than betting odds through rigorous statistical analysis.
+- Led and mentored a team of **4 junior professionals**, fostering a culture of continuous learning and code quality.
+- Managed client communications and requirement gathering for key business projects.
+- *Technologies:* AWS, Selenium, Pandas, ML, OCR, PostgreSQL, Docker.
+
+---
+
+## Teaching Experience
+
+### Instructor: Generative AI (Basic to Advanced) — [Horizon Solutions](https://horizonsolutions.tech/) <span class="text-muted float-right">July 2024</span>
+**Dhaka, Bangladesh**
+
+- Delivered comprehensive curriculum on LLMs, Transformers, Vector DBs, and Agent Architectures.
+
+### Instructor: Fundamentals of AI — [Skill Hunt](https://www.skillhunt.com/) <span class="text-muted float-right">Aug 2021</span>
+**Dhaka, Bangladesh**
+
+- Taught foundational AI and Machine Learning concepts to early-career developers.
+
+---
+
+## Education
+
+### BSc. in Information and Communication Engineering — [East West University](https://www.ewubd.edu/) <span class="text-muted float-right">Graduated 2020</span>
+**Dhaka, Bangladesh** &nbsp; | &nbsp; GPA: 3.46 / 4.0
+
+### Higher Secondary Certificate — Matibhanga Degree College <span class="text-muted float-right">Graduated 2015</span>
+Result: 4.64 / 5.0

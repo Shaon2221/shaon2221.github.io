@@ -3,8 +3,8 @@ layout: page
 order: 2
 permalink: /publications/
 title: Publications
-description: 
-years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013]
+description: Shaon Sikder's research and publications.
+years: [2025, 2024, 2023, 2022, 2021]
 nav: false
 heading: Publications
 ---
@@ -43,7 +43,7 @@ function filterSubject(filter) {
 }
 </script>
 
-My research program is dedicated to the study of the geometry and topology of the moduli spaces of Higgs bundles, integrable systems and decorated bundles, and the geometric structures they parametrize.   In particular, I am interested in understanding  of branes of Higgs bundles,  dualities within quiver varieties in general, and within generalized hyperpolygons in particular, with views towards applications to the Langlands program for wild Hitchin systems. In a different direction, I am interested in the appearances  of  geometric structures and symmetries within different areas of sciences, which has led to some publications in applied mathematics. You can see my work in each area by clicking on the links below.
+Research at the intersection of Generative AI, Agent Systems, and Trustworthy ML. Focused on LLM fine-tuning, advanced RAG, and production AI deployment. Ongoing work includes Transfer Learning for Bone Marrow Classification and Thermal Comfort Analysis using XAI.
 
 <center>
 <p>

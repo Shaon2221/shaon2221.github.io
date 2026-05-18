@@ -1,37 +1,50 @@
 /*******************************************************************************
- * Variables used throughout the theme.
- * To adjust anything, simply edit the variables below and rebuild the theme.
+ * Variables — Sleek Slate palette for a senior Full-Stack AI Engineer portfolio
  ******************************************************************************/
 
+// ── Slate neutrals ────────────────────────────────────────────────────────────
+$slate-50:   #f8fafc !default;
+$slate-100:  #f1f5f9 !default;
+$slate-200:  #e2e8f0 !default;
+$slate-300:  #cbd5e1 !default;
+$slate-400:  #94a3b8 !default;
+$slate-500:  #64748b !default;
+$slate-600:  #475569 !default;
+$slate-700:  #334155 !default;
+$slate-800:  #1e293b !default;
+$slate-900:  #0f172a !default;
 
-// Colors
-$red-color:           #FF3636 !default;
-$red-color-dark:      #B71C1C !default;
-$orange-color:        #F29105 !default;
-$blue-color:          #0076df !default;
-$blue-color-dark:     #00369f !default;
-$cyan-color:          #2698BA !default;
-$light-cyan-color:    lighten($cyan-color, 25%);
-$green-color:         #00ab37 !default;
-$green-color-lime:    #B7D12A !default;
-$green-color-dark:    #009f06 !default;
-$green-color-light:   #ddffdd !default;
-$green-color-bright:  #11D68B !default;
-$purple-color:        #B509AC !default;
-$light-purple-color:  lighten($purple-color, 25%);
-$pink-color:          #f92080 !default;
-$pink-color-light:    #ffdddd !default;
-$yellow-color:        #efcc00 !default;
+// ── Accent (Teal / Cyan) ──────────────────────────────────────────────────────
+$teal-400:   #2dd4bf !default;
+$teal-500:   #14b8a6 !default;
+$teal-600:   #0d9488 !default;
 
-$grey-color:          #828282 !default;
-$grey-color-light:    lighten($grey-color, 40%);
-$grey-color-dark:     #1C1C1D;
+// ── Semantic aliases (keep theme variable names al-folio expects) ─────────────
+$red-color:           #ef4444 !default;
+$red-color-dark:      #b91c1c !default;
+$orange-color:        #f97316 !default;
+$blue-color:          #3b82f6 !default;
+$blue-color-dark:     #1d4ed8 !default;
+$cyan-color:          $teal-400 !default;
+$light-cyan-color:    lighten($teal-400, 20%);
+$green-color:         #22c55e !default;
+$green-color-lime:    #84cc16 !default;
+$green-color-dark:    #16a34a !default;
+$green-color-light:   #dcfce7 !default;
+$green-color-bright:  #4ade80 !default;
+$purple-color:        $slate-700 !default;     // repurpose purple slot → slate
+$light-purple-color:  lighten($slate-700, 25%);
+$pink-color:          #ec4899 !default;
+$pink-color-light:    #fce7f3 !default;
+$yellow-color:        #eab308 !default;
+
+$grey-color:          $slate-400 !default;
+$grey-color-light:    $slate-300 !default;
+$grey-color-dark:     $slate-900 !default;
 
 $white-color: #ffffff !default;
 $black-color: #000000 !default;
 
-
-// Theme colors
-
-$code-bg-color-light:     rgba($purple-color, 0.05);
-$code-bg-color-dark:      #2c3237 !default;
+// ── Code backgrounds ──────────────────────────────────────────────────────────
+$code-bg-color-light: rgba($slate-700, 0.06);
+$code-bg-color-dark:  #1e293b !default;
